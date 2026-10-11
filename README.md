@@ -53,7 +53,6 @@
 - Python 3: requests, Long Poll API
 - VK Bot API
 - GigaChat API
-- Формулирование промптов для LLM
 
 ---
 
