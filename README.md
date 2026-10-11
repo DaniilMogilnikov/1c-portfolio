@@ -20,7 +20,7 @@
 
 | Проект | Задача | Стек |
 |---|---|---|
-| [01. Отчёт по неликвидам с ИИ-аналитикой](deadstock-report-gigachat/) | Отчёт на СКД для анализа неликвидов и избытков. Дополнительно — кнопка «Анализ AI», которая через GigaChat формирует текстовый разбор с рекомендациями. | 1С:УТ 11.5, СКД, HTTP, GigaChat API, OAuth 2.0 |
+| [01. Отчёт по неликвидам с ИИ-аналитикой](1c-gigachat-deadstock-analyzer/) | Отчёт на СКД для анализа неликвидов и избытков. Дополнительно — кнопка «Анализ AI», которая через GigaChat формирует текстовый разбор с рекомендациями. | 1С:УТ 11.5, СКД, HTTP, GigaChat API, OAuth 2.0 |
 | [02. AI-генерация описаний номенклатуры](gigachat-nomenclature/) | Внешняя обработка для автоматического заполнения продающих описаний товаров через GigaChat. | 1С:УТ 11.5, HTTP, REST API, OAuth 2.0, JSON |
 | [03. VK-бот для отслеживания заказов](vk-bot-orders/) | B2B-бот: клиенты проверяют статусы заказов через VK. Python-бот + HTTP-сервис на стороне 1С. | 1С:УТ 11.5, HTTP-сервисы, Python, VK Bot API, IIS |
 | [04. Загрузка номенклатуры из Excel](excel-nomenclature-loader/) | Внешняя обработка для импорта из XLSX/XLS/ODS/MXL. Автосопоставление колонок, поиск дубликатов, создание новых позиций. | 1С:УТ 11.5, ТаблицаЗначений, менеджер временных таблиц |
@@ -85,9 +85,8 @@
 
 ## Структура репозитория
 
-```text
 1c-portfolio/
-├── deadstock-report-gigachat/
+├── 1c-gigachat-deadstock-analyzer/
 │   ├── ОтчетПоНепродаваемымТоварам.erf
 │   ├── README.md
 │   └── screenshots/
@@ -104,13 +103,9 @@
     ├── ЗагрузкаНоменклатуры.epf
     ├── README.md
     └── screenshots/
-
-    Контакты
-
-    GitHub: https://github.com/DaniilMogilnikov
-
-    Email: mogilnikovdaniil05@gmail.com
-
-    Telegram: @DaniilMog5
-
-    hh.ru: [ссылка на резюме]
+## Контакты
+Канал	Ссылка
+GitHub	github.com/DanilMogilnikov
+Email	mogilnikovdanilo5@gmail.com
+Telegram	@DanilMogs
+hh.ru	[ссылка на резюме]
