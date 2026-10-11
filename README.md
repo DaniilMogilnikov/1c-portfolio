@@ -112,14 +112,14 @@
 | Канал | Ссылка |
 |---|---|
 | GitHub | [github.com/DanilMogilnikov](https://github.com/DanilMogilnikov) |
-| Email | [mogilnikovdanilo5@gmail.com](mailto:mogilnikovdanilo5@gmail.com) |
-| Telegram | [@DanilMogs](https://t.me/DanilMogs) |
+| Email | [mogilnikovdaniil06@gmail.com](mailto:mogilnikovdaniil06@gmail.com) |
+| Telegram | [@DanilMog5](https://t.me/DanilMog5) |
 | hh.ru | [ссылка на резюме] |
 
 ---
 
 ## Примечание
 
-Все проекты выполнены в учебных целях на демо-базе 1С:УТ 11.5. Это не коммерческие внедрения, но задачи приближены к реальным: интеграции, отчёты, обработки, работа с внешними API.
+Проекты выполнены в учебных целях на демо-базе 1С:УТ 11.5. Это не коммерческие внедрения, но задачи приближены к реальным: интеграции, отчёты, обработки, работа с внешними API.
 
 Готов к работе на реальных проектах.
