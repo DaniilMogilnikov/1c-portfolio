@@ -134,7 +134,6 @@
 
 | Канал | Ссылка |
 |---|---|
-| GitHub | [github.com/DanilMogilnikov](https://github.com/DanilMogilnikov) |
 | Email | [mogilnikovdaniil05@gmail.com](mailto:mogilnikovdaniil05@gmail.com) |
 | Telegram | [@DanilMog5](https://t.me/DanilMog5) |
 
